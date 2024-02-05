@@ -43,5 +43,4 @@ Used the F1-score as the primary evaluation metric to assess the model's perform
 ![image](https://github.com/Surendraprajapat18/Income_Inequality_Prediction/assets/97840357/414e37b3-43e1-4f6d-825b-22e80f44b271)
 
 
-Model deployment:
-Model deployed using AWS EC2 cloud service.
+
